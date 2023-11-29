@@ -1,8 +1,11 @@
 # Tools
 
 [syft](https://github.com/anchore/syft) - generate sboms from images. used by default with buildkit
+
 [grype](https://github.com/anchore/grype) - scan an sbom
+
 [Docker attestations](https://docs.docker.com/build/attestations/) -  create sbom and provenance from docker build
+
 [conftest](https://github.com/open-policy-agent/conftest) - better way to write rego
 
 
